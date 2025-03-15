@@ -1,1 +1,1 @@
-
+Smart traffic management integrates technology to improve road safety, reduce congestion, and enhance traffic law enforcement. Two key technologies in this domain are Automatic Number Plate Recognition (ANPR) and Automatic Traffic Counter and Classifier (ATCC). When combined, these systems enable efficient monitoring and management of urban traffic.
