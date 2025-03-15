@@ -8,7 +8,7 @@ STEP - 1:
 
 To deploy this project, first go to your VsCode terminal and type :
 
-  git clone https://github.com/peacefularmaan/Smart_Traffix.git
+  git clone https://github.com/Jyothika2005/ANPR_ATCC_InfosysSpringboard_Internship_Project
   
 STEP - 2:
 
