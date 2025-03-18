@@ -8,7 +8,8 @@ STEP - 1:
 
 To deploy this project, first go to your VsCode terminal and type :
 
-  git clone https://github.com/Jyothika2005/ANPR_ATCC_InfosysSpringboard_Internship_Project
+git clone :
+https://github.com/Jyothika2005/ANPR_ATCC_InfosysSpringboard_Internship_Project
   
 STEP - 2:
 
@@ -36,6 +37,13 @@ username : user
 password : pass
 
 On completing all the above steps, the main dashboard will appear.
+
+SCREENSHOTS
+
+Login Page
+
+![image alt](image_url)
+
 
 
 
