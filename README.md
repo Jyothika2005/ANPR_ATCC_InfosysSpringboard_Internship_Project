@@ -50,7 +50,7 @@ Home/Dashboard Page
 
 Live Monitoring Page
 
-![image alt]()
+![image alt](https://github.com/Jyothika2005/ANPR_ATCC_InfosysSpringboard_Internship_Project/blob/main/333.png)
 
 Features Page
 
