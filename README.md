@@ -46,7 +46,7 @@ Login Page
 
 Home/Dashboard Page
 
-![image alt]()
+![image alt](https://github.com/Jyothika2005/ANPR_ATCC_InfosysSpringboard_Internship_Project/blob/main/222.png)
 
 Live Monitoring Page
 
