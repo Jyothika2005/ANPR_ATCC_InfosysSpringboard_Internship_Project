@@ -42,7 +42,7 @@ SCREENSHOTS
 
 Login Page
 
-![image alt](https://github.com/Jyothika2005/ANPR_ATCC_InfosysSpringboard_Internship_Project/blob/main/111.png)
+![image alt]("C:\Users\jyoth\OneDrive\Desktop\111.png")
 
 Home/Dashboard Page
 
