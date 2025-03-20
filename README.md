@@ -54,6 +54,6 @@ Live Monitoring Page
 
 Features Page
 
-![image alt](https://github.com/Jyothika2005/ANPR_ATCC_InfosysSpringboard_Internship_Project/blob/main/444.png)
+![image alt](https://github.com/Jyothika2005/ANPR_ATCC_InfosysSpringboard_Internship_Project/blob/main/images/444.png)
 
 
